@@ -1,14 +1,4 @@
-# Expo Router Example
+# JobFinder Mobile App 📱
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+JobFinder is a  mobile application developed with React Native that helps job seekers find their perfect job using the powerful RapidAPI platform. It provides users with a seamless and intuitive interface to browse, search, and apply for job listings from various sources.
